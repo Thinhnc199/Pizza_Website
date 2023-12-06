@@ -1,0 +1,48 @@
+/* AuthDetails.css (you can create a separate CSS file) */
+
+body {
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+}
+
+/* Container styles */
+.auth-details-container {
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    width: 300px;
+    height: auto;
+    background-color: #f8f9fa;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-radius: 30px;
+    border: 2px solid rgba(255, 255, 255, 0.1);
+    box-shadow: 0 0 30px rgba(8, 7, 16, 0.6);
+    padding: 50px 50px;
+}
+
+/* Signed In styles */
+.auth-details-signed-in {
+    color: #000000;
+    font-size: larger;
+    font-weight: 700;
+    margin-bottom: 15px;
+}
+
+/* Sign Out button styles */
+.auth-details-sign-out-btn {
+    background-color: #0080ff;
+
+    color: #fff;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.auth-details-sign-out-btn:hover {
+    background-color: #00ffff;
+
+}
