@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Thinhnc199/Pizza_Website/static/css/main.e0eb0035.css",
-    "main.js": "/Thinhnc199/Pizza_Website/static/js/main.07b6e37a.js",
-    "static/media/pizzaLeft.jpg": "/Thinhnc199/Pizza_Website/static/media/pizzaLeft.24b07891fef1c8dae848.jpg",
-    "static/media/pizza.jpeg": "/Thinhnc199/Pizza_Website/static/media/pizza.21a1098fa87e28d80f37.jpeg",
-    "static/media/multiplePizzas.jpeg": "/Thinhnc199/Pizza_Website/static/media/multiplePizzas.490709e2113d96ca24a1.jpeg",
-    "static/media/pizzaLogo.png": "/Thinhnc199/Pizza_Website/static/media/pizzaLogo.fcdc67e6b331cba63735.png",
-    "index.html": "/Thinhnc199/Pizza_Website/index.html",
-    "main.e0eb0035.css.map": "/Thinhnc199/Pizza_Website/static/css/main.e0eb0035.css.map",
-    "main.07b6e37a.js.map": "/Thinhnc199/Pizza_Website/static/js/main.07b6e37a.js.map"
+    "main.css": "/Pizza_Website/static/css/main.e0eb0035.css",
+    "main.js": "/Pizza_Website/static/js/main.f9499ebd.js",
+    "static/media/pizzaLeft.jpg": "/Pizza_Website/static/media/pizzaLeft.24b07891fef1c8dae848.jpg",
+    "static/media/pizza.jpeg": "/Pizza_Website/static/media/pizza.21a1098fa87e28d80f37.jpeg",
+    "static/media/multiplePizzas.jpeg": "/Pizza_Website/static/media/multiplePizzas.490709e2113d96ca24a1.jpeg",
+    "static/media/pizzaLogo.png": "/Pizza_Website/static/media/pizzaLogo.fcdc67e6b331cba63735.png",
+    "index.html": "/Pizza_Website/index.html",
+    "main.e0eb0035.css.map": "/Pizza_Website/static/css/main.e0eb0035.css.map",
+    "main.f9499ebd.js.map": "/Pizza_Website/static/js/main.f9499ebd.js.map"
   },
   "entrypoints": [
     "static/css/main.e0eb0035.css",
-    "static/js/main.07b6e37a.js"
+    "static/js/main.f9499ebd.js"
   ]
 }
